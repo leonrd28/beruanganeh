@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @beruanganeh
+- 👋 Hi, I’m leonardo
 - 👀 I’m interested in web develompment more precisely fullstack
 - 🌱 I’m currently learning front end in web development use language html and css
 - 💞️ I’m looking to collaborate on fullstack web development
